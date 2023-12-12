@@ -1,4 +1,6 @@
+pytorch
+tensorflow
 streamlit
 transformers
-pytorch
+
 
