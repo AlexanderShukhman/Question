@@ -1,5 +1,4 @@
 torch
-tensorflow
 streamlit
 transformers
 
